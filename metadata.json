@@ -1,0 +1,6 @@
+{
+  "name": "YECHA CAFE | Premium Dining & Restaurant Platform",
+  "description": "Official cinematic website and restaurant management platform for Yecha Cafe (एच कैफे) in Salaiya, Bhopal. Featuring digital menu, table reservation, online ordering, live order tracking, and restaurant admin portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
